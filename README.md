@@ -31,3 +31,19 @@ Finally, I'm working on **adapting my working style to different team cultures**
 I value that way of working and don't want to lose it. At the same time, different teams and cultures need different levels of visibility and participation during the process. I want to get better at finding that balance—preserving the autonomy and experimentation that make me effective while recognizing when others need earlier visibility, more frequent context, or opportunities to participate.
 
 I don't expect to reach a point where I'm finished learning. One of the things I value most about engineering is continually discovering how much more there is to understand.
+
+### Things I'm working on
+
+I'm most comfortable with difficult technical ambiguity. Give me a problem without an obvious solution and I'm happy exploring it. Human and organizational ambiguity can be harder for me. I value precise communication and sometimes spend too much time trying to understand exactly what someone meant when there may not be a single precise interpretation.
+
+I also have a tendency to **over-explain when I feel misunderstood**. My instinct is to add context, evidence, or another explanation until we have a shared model of the problem. I'm learning that sometimes clarity comes from saying less, asking a question, or simply allowing two people to see something differently.
+
+My natural engineering style is **independent and exploratory**. I like being given a difficult problem, the context and constraints, and enough trust to investigate it deeply. Historically, I've thrived in environments where the expectation was essentially: own this area, build what needs to exist, and keep me informed.
+
+That style has tradeoffs. I can move quickly from an idea to investigation to a working prototype, and to me a prototype is often just another way of asking a question. Other people may reasonably see the same artifact as a direction being chosen or work already underway.
+
+I don't want to lose the autonomy or experimentation that makes this style effective. I do want to become better at adapting it to teams that need more visibility: sharing intent earlier, making the exploratory status of work explicit, and creating opportunities for people to participate before an idea has accumulated too much momentum.
+
+More broadly, I'm learning to distinguish **being wrong from being a problem**. Engineering has taught me to be comfortable with the first: build a model, test it, discover that it was wrong, and update it. I'm trying to bring more of that same mindset into communication and collaboration—treating misunderstandings and disagreements as information from which I can learn rather than something that has to be perfectly resolved.
+
+I'm not trying to engineer away the way I naturally work. I'm trying to understand its strengths, recognize its tradeoffs, and become more adaptable about when and how I use it.
